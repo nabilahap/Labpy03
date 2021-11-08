@@ -43,7 +43,7 @@ Membuat program untuk menampilkan bilangan terbesar dari n buat data yang diinpu
 
 ### Program dan Output
 
-![Gambar2](ss3/ssP3Lat2.png)
+![Gambar2](ssP3/ssP3Lat2.png)
 
 ```bash
 max = 0
